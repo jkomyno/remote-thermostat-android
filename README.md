@@ -1,2 +1,2 @@
 # remote-thermostat-android
-Android app designed specifically to control remotely a thermostat connected to an IoT board.
+Android app specifically designed to remotely control a thermostat connected to an IoT board.
